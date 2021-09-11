@@ -6,9 +6,8 @@
   "Space gravity":  "backgrounds/5.png",
   "Dota 2 map": "backgrounds/6.png",
   "Green DownTown":  "backgrounds/7.png",
-  "": "backgrounds/8.png",
-  "":  "backgrounds/9.png",
-  "": "backgrounds/10.png": ,
-
-
+  "neon sky": "backgrounds/8.png",
+  "Color Castle":  "backgrounds/9.png",
+  "Dragon Castle": "backgrounds/10.png",
+  "Sun Town": "backgrounds/11.png"
 }
